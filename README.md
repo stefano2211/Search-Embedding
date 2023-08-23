@@ -8,7 +8,7 @@ For this project we used
 
 
 
-# App.md
+# Semantic Search.md
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
